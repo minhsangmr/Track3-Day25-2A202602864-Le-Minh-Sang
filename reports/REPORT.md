@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Lê Minh Sang (MSSV: 2A202602864)  **Commit:** e0608ca49aedec7edf7590b4338baf73b38b6c87  **Điểm tự động (`make grade`):** 84.0 / 88 (Đạt điểm tuyệt đối mọi test public, 4 điểm còn lại thuộc bộ test ẩn của GV)
+**Họ tên / nhóm:** Lê Minh Sang (MSSV: 2A202602864)  **Commit:** 7f4dd2c00b00fbbdf5f31f13f6dcac8d1bde8c7b  **Điểm tự động (`make grade`):** 84.0 / 88 (Đạt điểm tuyệt đối mọi test public, 4 điểm còn lại thuộc bộ test ẩn của GV)
 
 > Mọi nhận định có đầy đủ số liệu thực chứng trích xuất từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`, `reports/cache/*.json`.
 
